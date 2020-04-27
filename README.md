@@ -36,6 +36,7 @@ Here are some questions to consider:
     * returns an `Array` of all the employees that the manager oversees
   * `Manager.all`
     * returns an `Array` of all the managers
+
   * `Manager#hire_employee`
     * takes a `String` argument and a `Fixnum` argument of an employee's name and the employee's salary, respectively, and adds that employee to the list of employees that the manager oversees
   * `Manager.all_departments`
